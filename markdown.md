@@ -39,11 +39,11 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### [](#header-4)Header 4
+#### [](#header-4)Glodavci
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   pižmovka
+*   nutrija
+*   kapibara
 
 ##### [](#header-5)Header 5
 
@@ -96,7 +96,7 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](pizmovka2.jpg)
 
 ### Large image
 
